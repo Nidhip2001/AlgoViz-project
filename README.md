@@ -1,1 +1,1 @@
-# AlgoViz-project
+# AlgoViz-Data-Structure-Visualization
